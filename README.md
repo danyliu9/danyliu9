@@ -5,7 +5,8 @@ Striving to poke keyboards for a living. 👨🏻‍💻
 
 - studied [🎓 @ubc](https://ubc.ca/) with a B.Sc. in Computer Science.
 - taught comp sci 👨‍🏫, in various roles, to students from primary school to university. 
-- gained SDE experience at [🌐 Orbis](https://www.orbis.com/ca/institutional/home)  [🎮 Relic](https://www.relic.com/)  and [📊 Tasktop (acquired by Planview)](https://www.planview.com/acquisitions/about-tasktop/) during my undergrad.
+- gained SDE experience at [🌐 Orbis](https://www.orbis.com/ca/institutional/home)  [🎮 Relic](https://www.relic.com/)  and [📊 Tasktop (acquired by Planview)](https://www.planview.com/acquisitions/about-tasktop/) during my undergrad
+- caring for at least 7 indoor plants.🎍
 
 🔭 currently seeking full-time software engineering positions.
 
