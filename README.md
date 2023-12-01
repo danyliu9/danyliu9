@@ -1,7 +1,7 @@
 
 Hi, I'm Daniel. 👋
 - 
-Striving to poke keyboards for a living. 👨🏻‍💻
+I'm striving to poke keyboards for a living. 👨🏻‍💻
 
 - studied [🎓 @ubc](https://ubc.ca/) with a B.Sc. in Computer Science.
 - taught comp sci 👨‍🏫, in various roles, to students from primary school to university. 
