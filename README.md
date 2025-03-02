@@ -9,7 +9,7 @@ I'm a software engineer poking keyboards for a living. 👨🏻‍💻
 
 ### What am I up to?
 
-🔭 seeking a full-time software engineering position.
+Ⓜ️ Working at Motorola Solutions as a Software Developer.
 
 🌱 taking care of 18 house plants (I have run out of space).
 
