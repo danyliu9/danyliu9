@@ -1,5 +1,5 @@
 
-Hi, I'm Daniel. 👋
+Hi, I'm Daniel 👋
 - 
 - studied [🎓 @ubc](https://ubc.ca/) with a B.Sc. in Computer Science.
 - taught comp sci 👨‍🏫, in various roles, to students from primary school to university. 
