@@ -1,9 +1,11 @@
 
-Hi, I'm Daniel 👋
+Hi, Daniel here 👋
 - 
-- studied [🎓 @ubc](https://ubc.ca/) with a B.Sc. in Computer Science.
+Some fun facts about me:
+- owner of 18 house plants 🌱
 - taught comp sci 👨‍🏫, in various roles, to students from primary school to university. 
 - worked as software dev at [🌐 Orbis](https://www.orbis.com/ca/institutional/home)  [🎮 Relic](https://www.relic.com/)  and [📊 Tasktop (acquired by Planview)](https://www.planview.com/acquisitions/about-tasktop/) during my undergrad.
+- studied [🎓 @ubc](https://ubc.ca/) with a B.Sc. in Computer Science.
 
 #### Currently I am...
 
