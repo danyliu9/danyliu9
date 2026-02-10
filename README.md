@@ -5,9 +5,9 @@ Hi, I'm Daniel. 👋
 - taught comp sci 👨‍🏫, in various roles, to students from primary school to university. 
 - worked as software dev at [🌐 Orbis](https://www.orbis.com/ca/institutional/home)  [🎮 Relic](https://www.relic.com/)  and [📊 Tasktop (acquired by Planview)](https://www.planview.com/acquisitions/about-tasktop/) during my undergrad.
 
-### What am I up to?
+#### Currently I am...
 
-Ⓜ️ Working at Motorola Solutions as a Software Engineer.
+Ⓜ️ working at Motorola Solutions as a Software Engineer.
 
 🌱 taking care of 18 house plants (I have run out of space).
 
