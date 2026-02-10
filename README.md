@@ -7,10 +7,12 @@ Hi, I'm Daniel. 👋
 
 #### Currently I am...
 
-Ⓜ️ working at Motorola Solutions as a Software Engineer.
+Ⓜ️ working at Motorola Solutions as a Software Engineer,
 
-🌱 taking care of 18 house plants (I have run out of space).
+👩🏻‍💻 building new projects with swe friends,
 
-💪( ･ᴗ･💪)✨ exercising daily to ensure I can keep sitting at my computer.
+🌱 taking care of 18 house plants (I have run out of space),
 
-📫 feel free to reach out to me: [💼 LinkedIn](https://www.linkedin.com/in/dan-yliu/) | [💌 Email](mailto:daniel.yd.liu@gmail.com)
+💪( ･ᴗ･💪)✨ and exercising daily to ensure I can keep sitting at my computer.
+
+📫 Feel free to reach out to me: [💼 LinkedIn](https://www.linkedin.com/in/dan-yliu/) | [💌 Email](mailto:daniel.yd.liu@gmail.com)
