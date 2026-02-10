@@ -7,7 +7,7 @@ Hi, I'm Daniel. 👋
 
 ### What am I up to?
 
-Ⓜ️ Working at Motorola Solutions as a Software Developer.
+Ⓜ️ Working at Motorola Solutions as a Software Engineer.
 
 🌱 taking care of 18 house plants (I have run out of space).
 
